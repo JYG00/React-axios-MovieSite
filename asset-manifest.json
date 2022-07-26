@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/React-axios-MovieSite/static/css/main.12814d59.css",
+    "main.js": "/React-axios-MovieSite/static/js/main.81fc41c4.js",
+    "static/js/787.f44b8ff8.chunk.js": "/React-axios-MovieSite/static/js/787.f44b8ff8.chunk.js",
+    "static/media/img01.jpg": "/React-axios-MovieSite/static/media/img01.63c7049b7656b55795e3.jpg",
+    "index.html": "/React-axios-MovieSite/index.html",
+    "main.12814d59.css.map": "/React-axios-MovieSite/static/css/main.12814d59.css.map",
+    "main.81fc41c4.js.map": "/React-axios-MovieSite/static/js/main.81fc41c4.js.map",
+    "787.f44b8ff8.chunk.js.map": "/React-axios-MovieSite/static/js/787.f44b8ff8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.12814d59.css",
+    "static/js/main.81fc41c4.js"
+  ]
+}
